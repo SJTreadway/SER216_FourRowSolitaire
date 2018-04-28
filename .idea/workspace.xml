@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a246210b-f8c8-4751-b257-0f9e9a6e4f4c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/FourRowSolitaire/SolitaireBoard$MyMouseListener.class" afterPath="$PROJECT_DIR$/bin/FourRowSolitaire/SolitaireBoard$MyMouseListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/FourRowSolitaire/SolitaireBoard$MyWindowListener.class" afterPath="$PROJECT_DIR$/bin/FourRowSolitaire/SolitaireBoard$MyWindowListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/FourRowSolitaire/SolitaireBoard$TimerListener.class" afterPath="$PROJECT_DIR$/bin/FourRowSolitaire/SolitaireBoard$TimerListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/FourRowSolitaire/SolitaireBoard.class" afterPath="$PROJECT_DIR$/bin/FourRowSolitaire/SolitaireBoard.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FourRowSolitaire/Column.java" afterPath="$PROJECT_DIR$/src/FourRowSolitaire/Column.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FourRowSolitaire/SolitaireBoard.java" afterPath="$PROJECT_DIR$/src/FourRowSolitaire/SolitaireBoard.java" />
     </list>
     <ignored path="FourRowSolitaire.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AcePile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/AcePile.java">
+      <file leaf-file-name="ChangeOptions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/ChangeOptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+            <state relative-caret-position="1938">
+              <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -42,74 +37,43 @@
       <file leaf-file-name="CardStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/CardStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-310">
+            <state relative-caret-position="884">
               <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FourRowSolitaire.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/FourRowSolitaire.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="262" column="0" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
               <folding>
-                <element signature="e#2495#2496#0" expanded="true" />
-                <element signature="e#2528#2529#0" expanded="true" />
+                <element signature="e#8045#8054#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SolitaireBoard.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AcePile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/AcePile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-446">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolitaireBoard.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/SolitaireBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1058">
-              <caret line="1739" column="21" selection-start-line="1739" selection-start-column="21" selection-end-line="1739" selection-end-column="21" />
+            <state relative-caret-position="333">
+              <caret line="155" column="119" selection-start-line="155" selection-start-column="119" selection-end-line="155" selection-end-column="119" />
               <folding>
                 <element signature="e#2944#2955#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/Card.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Column.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/Column.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SolitaireLayout.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/SolitaireLayout.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3502">
-              <caret line="241" column="30" selection-start-line="241" selection-start-column="30" selection-end-line="241" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SolitairePanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/SolitairePanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleCell.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/SingleCell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -134,9 +98,9 @@
         <option value="$PROJECT_DIR$/src/FourRowSolitaire/FourRowSolitaire.java" />
         <option value="$PROJECT_DIR$/src/FourRowSolitaire/SolitairePanel.java" />
         <option value="$PROJECT_DIR$/src/FourRowSolitaire/SolitaireLayout.java" />
-        <option value="$PROJECT_DIR$/src/FourRowSolitaire/SolitaireBoard.java" />
         <option value="$PROJECT_DIR$/src/FourRowSolitaire/AcePile.java" />
         <option value="$PROJECT_DIR$/src/FourRowSolitaire/Column.java" />
+        <option value="$PROJECT_DIR$/src/FourRowSolitaire/SolitaireBoard.java" />
       </list>
     </option>
   </component>
@@ -553,7 +517,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -566,10 +530,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2295">
           <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-          <folding>
-            <element signature="e#6404#6405#0" expanded="true" />
-            <element signature="e#6437#6438#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -605,10 +566,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding>
-            <element signature="e#2495#2496#0" expanded="true" />
-            <element signature="e#2528#2529#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -671,17 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/ChangeOptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-          <folding>
-            <element signature="e#6404#6405#0" expanded="true" />
-            <element signature="e#6437#6438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/DealDeck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -698,16 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/FourRowSolitaire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="488" column="55" selection-start-line="488" selection-start-column="55" selection-end-line="488" selection-end-column="55" />
-          <folding>
-            <element signature="e#8045#8054#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/Deck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-805">
@@ -716,40 +653,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/AcePile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/CardStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="e#2495#2496#0" expanded="true" />
-            <element signature="e#2528#2529#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/SingleCell.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
+        <state relative-caret-position="28">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/SolitaireBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1058">
-          <caret line="1739" column="21" selection-start-line="1739" selection-start-column="21" selection-end-line="1739" selection-end-column="21" />
-          <folding>
-            <element signature="e#2944#2955#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,8 +671,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/SolitairePanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="453">
           <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/Column.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -777,11 +693,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/Column.java">
+    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/CardStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+        <state relative-caret-position="884">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/ChangeOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/AcePile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-446">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/FourRowSolitaire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="262" column="0" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
+          <folding>
+            <element signature="e#8045#8054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FourRowSolitaire/SolitaireBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="155" column="119" selection-start-line="155" selection-start-column="119" selection-end-line="155" selection-end-column="119" />
+          <folding>
+            <element signature="e#2944#2955#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

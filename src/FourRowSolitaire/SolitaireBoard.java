@@ -153,7 +153,7 @@ public class SolitaireBoard extends JFrame
                 default: ; break;
             }
 
-            acePiles[i].addMouseListener(ml);
+            //acePiles[i].addMouseListener(ml); //TODO: Find out if there's a way to only disable ML on Hard difficulty
             //acePiles[i].addMouseMotionListener(ml);
         }
 
