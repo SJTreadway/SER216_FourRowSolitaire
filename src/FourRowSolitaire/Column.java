@@ -32,7 +32,8 @@ public class Column extends CardStack
 
     public Card push(Card card)
     {
-        if(isEmpty() && card.getNumber() == Card.KING)
+//        if(isEmpty() && card.getNumber() == Card.KING) //TODO: Find out if we can only set this on EASY difficulty
+        if(isEmpty())
         {
             super.push(card);
             return card;
@@ -48,7 +49,8 @@ public class Column extends CardStack
 
     public boolean isValidMove(Card card)
     {
-        if(isEmpty() && card.getNumber() == Card.KING)
+//        if(isEmpty() && card.getNumber() == Card.KING) //TODO: Find out if we can only set this on EASY difficulty
+        if(isEmpty())
         {
             return true;
         }
